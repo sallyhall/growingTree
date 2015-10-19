@@ -1,0 +1,16 @@
+.branch{
+  color:brown;
+  list-style-type: none;
+  content:'Branch';
+}
+
+.level{
+  display: block;
+  height:105px;
+}
+
+.leaf{
+  width:60px;
+  height:60px;
+  background-color: green;
+}
